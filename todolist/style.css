@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(34, 120, 120);
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+width: 360px;
+padding: 33px;
+text-align: center;
+background-color: rgb(130, 159, 184);
+margin-left: 33%;
+margin-top: 15px;
+}
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(124, 68, 68);
+    border-radius: 2px;
+    outline: none;
+    font-size: 19px;
+}
+button{
+    width: 60px;
+    height: 41px;
+    color: white;
+    background-color:rgb(13, 12, 12) ;
+    outline: none;
+    padding: 1px;
+    cursor: pointer;
+    border: 2px solid rgb(128, 72, 72);
+    border-radius: 2px;
+font-size: 19px;
+border: none;
+}
+.text ul{
+    position: relative;
+    background-color: aqua;
+    padding: 7px;
+    color: black;
+    text-align: left;
+   font-size: 19px;
+}
+
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor:pointer;
+}
